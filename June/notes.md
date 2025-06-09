@@ -1,4 +1,4 @@
-can llm capabilities advance without hardware progress? 
+llm e-guess: can llm capabilities advance without hardware progress? 
 
 core q: can algo/systems improvements alone push LLM performance without new hardware?
 - what if we’re compute-constrained (no new TPUs, same 8×A100 budget)?
